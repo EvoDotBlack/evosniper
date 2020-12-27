@@ -10,6 +10,8 @@ You will need to install `python 3.9` and add `pip to path`
 You will need your discord token
 Getting your token -> https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs#how-to-get-a-user-token
 
+> Or `pip install -r requirements.txt`
+
 ```ini
 [1] - Requests
 [2] - Discord.py
