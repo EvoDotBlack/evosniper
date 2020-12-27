@@ -1,6 +1,6 @@
 # Evo Sniper
 
-`Evo Fucker` is a Next Generation Token Fucker. We will update it constantly and continue to develop it until a time is fit to stop. 
+`Evo Fucker` is a Next Generation Token Sniper. We will update it constantly and continue to develop it until a time is fit to stop. 
 
 
 # Setup
